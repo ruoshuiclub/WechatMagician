@@ -1,4 +1,4 @@
-# WechatMagician
+# WechatMagician 测试fork
 
 _Read this README.md in other languages:_  [English](https://github.com/Gh0u1L5/WechatMagician/blob/master/README.en.md).
 
